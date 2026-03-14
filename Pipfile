@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+qiskit = "*"
+qiskit-ibm-runtime = "*"
+qiskit-aer = "*"
+ipykernel = "*"
+matplotlib = "*"
+pylatexenc = "*"
+seaborn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
