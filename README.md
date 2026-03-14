@@ -13,6 +13,7 @@ This repository centralizes all notebooks, scripts, and notes produced during ou
 | Diogo    | —      | —            |
 | Gabriel    | —      | —            |
 | José Victor    | —      | —            |
+| Miguel    | —      | —            |
 | Pedro    | —      | —            |
 
 ## 🗂️ Repository structure
