@@ -1,0 +1,1 @@
+# study-group-qiskit-2.x-certification
