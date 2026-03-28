@@ -153,7 +153,7 @@ __pycache__/
  
 - [X] Week 1 — Pauli Operators + quantum gates
 - [X] Week 2 — Visualization
-- [ ] Week 3 — Basic and dynamic circuits
+- [X] Week 3 — Basic and dynamic circuits
 - [ ] Week 4 — Parameterized circuits + transpilation
 - [ ] Week 5 — Execution modes
 - [ ] Week 6 — Primitives + Broadcasting
