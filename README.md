@@ -10,11 +10,11 @@ This repository centralizes all notebooks, scripts, and notes produced during ou
  
 | Name | GitHub | Initial role |
 |------|--------|--------------|
-| Diogo    | —      | —            |
-| Gabriel    | —      | —            |
-| José Victor    | —      | —            |
-| Miguel    | —      | —            |
-| Pedro    | —      | —            |
+| Diogo    | —      | Member            |
+| Gabriel    | —      | Member            |
+| José Victor    | —      | Member           |
+| Miguel    | —      | Member            |
+| Pedro    | —      | Member            |
 
 ## 🗂️ Repository structure
  
@@ -154,8 +154,8 @@ __pycache__/
 - [X] Week 1 — Pauli Operators + quantum gates
 - [X] Week 2 — Visualization
 - [X] Week 3 — Basic and dynamic circuits
-- [ ] Week 4 — Parameterized circuits + transpilation
-- [ ] Week 5 — Execution modes
+- [X] Week 4 — Parameterized circuits + transpilation
+- [X] Week 5 — Execution modes
 - [ ] Week 6 — Primitives + Broadcasting
 - [ ] Week 7 — Sampler
 - [ ] Week 8 — Estimator
